@@ -14,11 +14,11 @@ Jadi, pertanyaannya adalah “Apakah Budi manusia ?”, jawabannya direpresentas
 Semantic Network adalah representasi yang mengepresikan solusi permasalahan dengan menggunakan graph berarah. Semantic Network adalah representasi yang bersifat :
 * Lexically, terdiri dari node, link dan batasan-batasan khusus dari permasalahan.
 * Structurally, link yang terkoneksi dari head node ke tail node.
-* Semantically, semua node dan link yang direpresentasikan sebagai pembatas masalah.
+* Semantically, semua node dan link yang direpresentasikan sebagai pembatas masalah.<br>
 Contohnya adalah permasalahan manusia, harimau, ayam, dan gabah. Manusia ingin memindahkan dirinya sendiri, harimau, ayam, dan gabah menyebrangi sungai. Tapi perahunya hanya bisa membawa manusia dan satu penyebrangan saja. Manusia juga tidak bisa meninggalkan harimau dan ayam dalam satu tempat karena harimau akan memangsa ayam, dan manusia juga tidak bisa meninggalkan ayam dengan gabah dalam satu tempat.<br>
 Dibawah ini terdapat contoh hasil program penyebrangan sungai dengan menggunakan bahasa python.
 <p align ="center">
-<img src="../../img/tugas3.PNG" width="600px">
+<img src="../../img/tugas3.PNG" width="400px">
 </p>
 
 ## Frame
@@ -29,7 +29,7 @@ Frame adalah representasi atau penyajian berorientasi objek. Kelebihan menggunak
 * Mendukung mekanisme inheritance dalam informasi.
 Contoh sebuah frame adalah sebagai berikut :
 <p align ="center">
-<img src="../../img/contoh_frame.PNG" width="600px">
+<img src="../../img/contoh_frame.PNG" width="400px">
 </p>
 
 ## Kesimpulan
