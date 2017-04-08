@@ -30,22 +30,22 @@ Pohon pelacakan digunakan untuk menggambarkan keadaan secara hirarkis, sehingga 
 ## Contoh Kasus Ruang Keadaan
 Contoh kasusnya adalah permasalahan petani, harimau, ayam, dan gabah. Petani ingin memindahkan dirinya sendiri, harimau, ayam, dan gabah menyebrangi sungai. Tapi perahunya hanya bisa membawa petani dan satu penumpang lainnya. Petani juga tidak bisa meninggalkan harimau dan ayam dalam satu tempat karena harimau akan memangsa ayam, dan petani juga tidak bisa meninggalkan ayam dengan gabah dalam satu tempat.
 <p align ="center">
-<img src="../../img/masalah_petani.png" width="400px">
+<img src="../../img/masalah_petani.png" width="600px">
 </p>
 
 * Identifikasi ruang keadaan
 
-Permasalahan ini dapat dilambangkan dengan: 
+Permasalahan ini dapat dilambangkan dengan:<br>
 (Petani, Harimau, Ayam, Gabah) = (1,1,1,1)
 
 * Keadaan awal
 
-Daerah asal : (1,1,1,1)
+Daerah asal : (1,1,1,1)<br>
 Daerah tujuan : (0,0,0,0)
 
 * Tujuan
 
-Daerah asal : (0,0,0,0)
+Daerah asal : (0,0,0,0)<br>
 Daerah tujuan : (1,1,1,1)
 
 * Aturan-aturan
