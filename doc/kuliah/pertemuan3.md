@@ -19,7 +19,7 @@ Semantic Network adalah representasi yang mengepresikan solusi permasalahan deng
 Contohnya adalah permasalahan manusia, harimau, ayam, dan gabah. Manusia ingin memindahkan dirinya sendiri, harimau, ayam, dan gabah menyebrangi sungai. Tapi perahunya hanya bisa membawa manusia dan satu penyebrangan saja. Manusia juga tidak bisa meninggalkan harimau dan ayam dalam satu tempat karena harimau akan memangsa ayam, dan manusia juga tidak bisa meninggalkan ayam dengan gabah dalam satu tempat.<br>
 Dibawah ini terdapat contoh hasil program penyebrangan sungai dengan menggunakan bahasa python.
 <p align ="center">
-<img src="../../img/tugas3.PNG" width="400px">
+<img src="../../img/tugas3.PNG" width="300px">
 </p>
 
 ## Frame

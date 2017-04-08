@@ -17,7 +17,7 @@ Efektif adalah melakukan sesuatu yang sesuai dengan apa yang diinginkan atau tap
 
 Dibawah ini terdapat contoh hasil kode aritmatika perhitungan dengan menggunakan bahasa python yang diinput dengan huruf dan outputnya hasil dan durasi waktu pemrosesan.
 <p align ="center">
-<img src="../../img/tugas1.PNG" width="600px">
+<img src="../../img/tugas1.PNG" width="300px">
 </p>
 
 ## Kesimpulan

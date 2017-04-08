@@ -17,7 +17,7 @@ Perempuan(Ani)
 
 Dibawah ini terdapat contoh hasil kode rute perjalanan dengan menggunakan bahasa python yang diinput dengan rute awal dan rute akhir sedangkan outputnya rute perjalanan awal sampai akhir.
 <p align ="center">
-<img src="../../img/tugas2.PNG" width="600px">
+<img src="../../img/tugas2.PNG" width="300px">
 </p>
 
 ## Kesimpulan

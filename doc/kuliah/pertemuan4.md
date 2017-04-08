@@ -12,6 +12,7 @@ Ruang keadaan adalah sebuah ruang berisi semua informasi yang diperlukan untuk m
 
 ## Cara Untuk Merepresentasikan Ruang Keadaan
 1. Graph Keadaan
+
 Graph keadaan terdiri dari node-node yang dihubungkan dengan arc (busur) yang diberi panah untuk menunjukkan arah keadaan awal dan keadaan baru yang akan dicapai berikutnya.
 
 <p align ="center">
@@ -19,6 +20,7 @@ Graph keadaan terdiri dari node-node yang dihubungkan dengan arc (busur) yang di
 </p>
 
 2. Pohon Pelacakan
+
 Pohon pelacakan digunakan untuk menggambarkan keadaan secara hirarkis, sehingga mencegah node yang berulang.
 
 <p align ="center">
@@ -32,18 +34,22 @@ Contoh kasusnya adalah permasalahan petani, harimau, ayam, dan gabah. Petani ing
 </p>
 
 * Identifikasi ruang keadaan
+
 Permasalahan ini dapat dilambangkan dengan: 
 (Petani, Harimau, Ayam, Gabah) = (1,1,1,1)
 
 * Keadaan awal
+
 Daerah asal : (1,1,1,1)
 Daerah tujuan : (0,0,0,0)
 
 * Tujuan
+
 Daerah asal : (0,0,0,0)
 Daerah tujuan : (1,1,1,1)
 
 * Aturan-aturan
+
 Aturan ke- | Aturan
 --------- | ---------
 1 | Petani menyebrang
@@ -56,6 +62,7 @@ Aturan ke- | Aturan
 8 | Gabah kembali
 
 * Solusi
+
 Daerah asal | Daerah tujuan | Aturan yang digunakan
 --------- | --------- | ---------
 (1,1,1,1) | (0,0,0,0) | 1,3
@@ -69,7 +76,7 @@ Daerah asal | Daerah tujuan | Aturan yang digunakan
 
 Dibawah ini terdapat contoh hasil program solusi pemasalahan petani menyebrang sungai dengan menggunakan bahasa python.
 <p align ="center">
-<img src="../../img/tugas4.PNG" width="400px">
+<img src="../../img/tugas4.PNG" width="300px">
 </p>
 
 ## Kesimpulan
