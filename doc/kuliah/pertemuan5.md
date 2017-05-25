@@ -19,10 +19,7 @@ Contoh : menyanyi -> me-nyanyi.
 
 3.	Sintaksis
 
-Sintaksis merupakan pengetahuan tentang pembentukan urutan kata dalam kalimat atau pembentukan aturan baku sebuah kalimat.<br>
-Contoh :<br>
-<u>Ibu</u> <u>sedang membuat</u> <u>kue</u><br>
- S	      P			O
+Sintaksis merupakan pengetahuan tentang pembentukan urutan kata dalam kalimat atau pembentukan aturan baku sebuah kalimat.
 
 4.	Semantik
 
@@ -65,7 +62,7 @@ Dibawah ini juga terdapat contoh hasil program mengubah suara ke teks menggunaka
 </p>
 
 ## Kesimpulan
-Jadi, ruang keadaan adalah sebuah ruang berisi semua informasi yang diperlukan untuk memprediksi dampak dari suatu tindakan dan untuk menentukan apakah itu adalah ruang yang dituju dan ada beberapa cara untuk merepresentasikan ruang keadaan yaitu graph keadaan dan pohon pelacakan.
+Jadi, pengolahan bahasa alami mengacu pada metode kecerdasan buatan digunakan untuk berkomunikasi dengan komputer menggunakan bahasa keseharian manusia dan terdapat beberapa bidang yang berhubungan dengan pengolahan bahasa alami. Dan untuk praktikum coba gunakan library python SpeechRecognition untuk melakukan pengenalan suara.
 
 ## Saran
 Diharapkan memahami materi dan tugas secara mendetail.
