@@ -28,7 +28,7 @@ Studi kasus : Seorang petani mempunyai seekor harimau dan ayam, dan petani juga 
 
 Permasalahannya : Disungai tersebut hanya tersedia 1 perahu yang hanya bisa memuat petani dan satu penumpang lainnya (harimau, ayam atau gabah). Jika petani meninggalkan harimau dan ayam dalam satu daerah sama, maka harimau akan memangsa ayam dan begitu juga dengan gabah tidak bisa di tinggalkan dengan ayam dalam satu daerah yang sama.
 <p align ="center">
-<img src="../../img/masalah_petani.png" width="400px">
+<img src="../../img/masalah_petani.png" width="600px">
 </p>
 
 Deskripsi :
